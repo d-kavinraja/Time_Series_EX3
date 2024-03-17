@@ -14,7 +14,7 @@ type to fit the data.
 NAME : Kavinraja D
 
 REG NO : 212222240047
-```PY
+```
 import numpy as np
 import pandas as pd
 import statsmodels.api as sm
